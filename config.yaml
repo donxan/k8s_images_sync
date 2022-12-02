@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 last: 1000
-=======
-last: 0
->>>>>>> fe6ad6acd64fe3f4dfbf1574b1f1ccc4b48985c8
 images:
   docker.io:
     - calico/typha

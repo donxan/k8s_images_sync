@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 name: sync1
-=======
-name: sync
->>>>>>> fe6ad6acd64fe3f4dfbf1574b1f1ccc4b48985c8
+
 
 on:
   push:
