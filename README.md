@@ -11,11 +11,9 @@
 # 代码仓库
 
 
-<<<<<<< HEAD
+
 https://github.com/donxan/k8s_images_sync
-=======
-https://github.com/cby-chen/sys_images
->>>>>>> fe6ad6acd64fe3f4dfbf1574b1f1ccc4b48985c8
+
 若有需要自行研究 后续更新会在仓库更新
 
 
