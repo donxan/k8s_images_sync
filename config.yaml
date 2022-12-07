@@ -58,3 +58,5 @@ images:
   gcr.io:
     - kaniko-project/executor
     - google-samples/xtrabackup
+  registry.jetbrains.team:
+    - p/prj/containers/projector-goland
