@@ -5,6 +5,7 @@ images:
     - calico/cni
     - calico/node
     - calico/kube-controllers
+    - rook/ceph
   docker.elastic.co:
     - elasticsearch/elasticsearch
     - kibana/kibana
