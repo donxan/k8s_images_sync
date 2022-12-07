@@ -6,6 +6,13 @@ images:
     - calico/node
     - calico/kube-controllers
     - rook/ceph
+    - jenkins/jenkins
+    - prom/node-exporter
+    - calico/kube-controllers
+    - csiplugin/snapshot-controller
+    - calico/node
+    - calico/cni
+    - calico/pod2daemon-flexvol
   docker.elastic.co:
     - elasticsearch/elasticsearch
     - kibana/kibana
@@ -34,6 +41,10 @@ images:
     - brancz/kube-rbac-proxy
     - cilium/cilium
     - cilium/operator-generic
+    - cilium/hubble-ui-backend
+    - cilium/hubble-ui
+    - jetstack/cert-manager-webhook
+    - jetstack/cert-manager-cainjector
   k8s.gcr.io:
     - etcd
     - pause
