@@ -180,7 +180,7 @@ def get_repo_docker_tags(image, limit=5):
     :param limit:
     :return:
     """
-    tag_url = "https://registry.hub.docker.com/v1/repositories/{image}/tags".format(image=image)
+    tag_url = "https://registry.hub.docker.com/v2/repositories/{image}/tags".format(image=image)
 
     tags = []
     tags_data = []
